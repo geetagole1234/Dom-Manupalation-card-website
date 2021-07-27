@@ -5,6 +5,7 @@
   }
   
   body {
-    font-family: "Poppins", sans-serif;
-    background-color: #ebf2ff;
+    background: #ece93d;
+    background: -webkit-linear-gradient(to left, #c276a5, #117cbb, #bbd2c5);
+    background: linear-gradient(to left, #d43d3d, #6a32ec, #25c269);
 }
